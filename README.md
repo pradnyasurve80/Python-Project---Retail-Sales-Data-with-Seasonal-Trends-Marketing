@@ -3,17 +3,14 @@ Project Data: Retail Sales Data with Seasonal Trends & Marketing csv
 
 This dataset includes:
 
-Store ID
-Product ID
-Date
-Units Sold
-Sales Revenue (USD)
-Discount(%)
-Marketing Spend (USD)
-Store Location
-Product Category
-Day of the Week
-Holiday Effect
+Discount Percentage: The percentage discount applied to products.
+Marketing Spend (USD): Budget allocated to marketing efforts.
+Store ID: Identifier for the retail store.
+Product Category: The category to which the product belongs (e.g., Electronics, Clothing).
+Date: The date when the sale occurred.
+Store Location: Geographic location of the store.
+Day of the Week: Day when the sale took place.
+Holiday Effect: Indicator of whether the sale happened during a holiday period.
 
 
 This project Keyinsights:
